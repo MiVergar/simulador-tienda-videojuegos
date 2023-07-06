@@ -9,4 +9,7 @@ El método esta creado de tal forma que sería posible añadirlo como una opció
 
 También se hizo el supuesto que los juegos estan disponibles para una sola consola, por lo que basta especificar solo con el título y no la consola.
 
-JUnit fue instalado mediante Maven
+JUnit fue instalado mediante Maven, por lo que las pruebas se pueden ejecutar ingresando el comando
+mvn test
+en la terminal, dentro de la carpeta Tarea3PdS
+
